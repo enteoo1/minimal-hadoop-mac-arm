@@ -1,7 +1,7 @@
 # User oriented environment variables (for use with bash)
 
 # The java implementation to use.
-export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-arm64
 
 export HADOOP_ROOT="/vagrant/opt/tdh"
 export HADOOP_HOME="$HADOOP_ROOT/hadoop"
